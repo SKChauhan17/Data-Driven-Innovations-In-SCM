@@ -1,5 +1,5 @@
 # SmartInternz_Qlik-Business-Analytics
-This repository houses the documentation and resources for an interactive Supply Chain Management (SCM) Dashboard built with Qlik Sense.
+This repository houses the documentation and resources for an interactive Supply Chain Management (SCM) Dashboards built with Qlik Sense.
 
 ## Dataset
 * **Pre-processed :** https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
