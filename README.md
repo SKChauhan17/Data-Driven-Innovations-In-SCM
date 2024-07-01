@@ -1,4 +1,4 @@
-# SmartInternz_Qlik-Business-Analytics
+# Data-Driven Innovations In Supply Chain Management
 This repository houses the documentation and resources for an interactive Supply Chain Management (SCM) Dashboards built with Qlik Sense.
 
 ## Dataset
